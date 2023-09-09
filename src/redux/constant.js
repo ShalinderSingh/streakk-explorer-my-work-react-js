@@ -1,0 +1,3 @@
+export const REDUCERCONSTANT = {
+    GET_BLOCKS: "GET_BLOCKS",
+};
